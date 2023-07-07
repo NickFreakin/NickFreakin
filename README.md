@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nikhilchandel9@gmail.com
+- 📫 How to reach me
 
 <!---
 NickFreakin/NickFreakin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
